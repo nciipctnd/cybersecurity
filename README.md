@@ -1,6 +1,7 @@
 # Useful cybersecurity learning websites (URLs)
    
 ### Beginner  
+https://www.cybrary.it/  
 https://tryhackme.com/path/outline/beginner  
   
 ### SOC Analysts
