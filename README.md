@@ -38,3 +38,7 @@ NDG Linux I (https://www.netacad.com/courses/os-it/ndg-linux-I) 70 hours $30 for
 NDG Linux II (https://www.netacad.com/courses/os-it/ndg-linux-II) 70 hours $30 for self-paced classes.  
   
   
+## AWS Academy  
+https://aws.amazon.com/training/digital/  
+  
+  
