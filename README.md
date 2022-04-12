@@ -17,6 +17,9 @@ https://tryhackme.com/module/cyber-security-awareness
 ### Security certifications  
 https://pauljerimy.com/security-certification-roadmap/  
   
+### AttackIQ Academy  
+https://academy.attackiq.com/catalog  
+  
   
 ## Cisco Networking Academy (https://www.netacad.com/courses/all-courses)  
 
