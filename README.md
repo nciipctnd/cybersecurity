@@ -3,6 +3,7 @@
 ### Beginner  
 https://www.cybrary.it/  
 https://tryhackme.com/path/outline/beginner  
+https://cybersecurity.att.com/resource-center/beginners-guides  
 https://www.attackiq.com/lp/mitre-attack-for-dummies/   
 
 ### SOC Analysts
