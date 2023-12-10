@@ -3,7 +3,8 @@
 ### Beginner  
 https://www.cybrary.it/  
 https://tryhackme.com/path/outline/beginner  
-  
+https://www.attackiq.com/lp/mitre-attack-for-dummies/   
+
 ### SOC Analysts
 LetsDefend - Hands-on training in a SOC environment: https://letsdefend.io/  
   
